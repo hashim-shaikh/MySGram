@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "489725449962",
+    "firebase_url": "https://mysgram-fbfd5-default-rtdb.firebaseio.com",
+    "project_id": "mysgram-fbfd5",
+    "storage_bucket": "mysgram-fbfd5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489725449962:android:56c1812d9ee836728a2993",
+        "android_client_info": {
+          "package_name": "com.mysgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489725449962-ukaeep7li1tf9ejr7knd1v9gc69sis47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mysgram",
+            "certificate_hash": "6f26a80b0acee83372483bef6a5d54e6762662aa"
+          }
+        },
+        {
+          "client_id": "489725449962-cv0u4klrr8e6pn0i0kufmpbbkn0edqq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS91PrwMyQyaJEJrKvmRF1evTbEcD6aa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108600318884122599702",
+              "client_type": 3
+            },
+            {
+              "client_id": "489725449962-cf8fombbofrpg73p45vub5uppf247la2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.baljit.apptesting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
